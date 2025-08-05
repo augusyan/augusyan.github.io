@@ -12,9 +12,3 @@ You can find my CV here: [Tianwei Yan's Curriculum Vitae](../assets/Curriculum_V
 
 [Email](augusyan@cqjtu.edu.cn) / [Github](https://github.com/augusyan) / Wechat(tbd) / [OpenReview](https://openreview.net/profile?id=%7ETianwei_Yan1)
 
-
-
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
